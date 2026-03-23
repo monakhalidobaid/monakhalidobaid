@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hey there! 
 
-<!--
-**monakhalidobaid/monakhalidobaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Mona**, a software developer based in Saudi Arabia.
 
-Here are some ideas to get you started:
+I love building things for the web and mobile, and lately, I’ve been obsessed with what’s happening under the hood of AI models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### My Tech Stack
+**Shipping Apps with:** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat&logo=FastAPI&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23ffca28.svg?style=flat&logo=firebase&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
+
+**Exploring AI with:**  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+
+---
+
+### Fun Facts
+* I tend to debate code logic and bugs out loud with myself. If I'm talking to an empty room, I'm just in the middle of a breakthrough.
+* When I’m not coding, I’m either lost in a book or leveling up in a game.
+
+---
+
+### Connect with me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mona-obaid/) 
