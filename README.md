@@ -16,7 +16,6 @@ I love building things for the web and mobile, and lately, I’ve been obsessed 
 
 ### Fun Facts
 * I tend to debate code logic and bugs out loud with myself. If I'm talking to an empty room, I'm just in the middle of a breakthrough.
-* When I’m not coding, I’m either lost in a book or leveling up in a game.
 
 ---
 
