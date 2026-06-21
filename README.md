@@ -2,7 +2,7 @@
 
 I’m **Mona**, a software developer based in Saudi Arabia.
 
-I love building things for the web and mobile, and lately, I’ve been obsessed with what’s happening under the hood of AI models.
+I love building things for the web, and lately, I’ve been obsessed with what’s happening under the hood of AI models.
 
 ---
 
